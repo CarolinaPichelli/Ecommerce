@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\applicationapp\\openapp\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\openapp\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCE886C-7529-438D-B9DD-DA784C4BC6AC}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeToolTip": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:56:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceProductApp.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:55:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceGenericaApp.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:52:47.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.deps.json
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.dll
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.pdb
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.dll
+C:\Users\Timeware73\Desktop\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.pdb
