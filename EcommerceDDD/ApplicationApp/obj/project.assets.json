@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
+      "projectUniqueName": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
       "projectName": "ApplicationApp",
-      "projectPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
+      "projectPath": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj",
       "packagesPath": "C:\\Users\\Timeware73\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\obj\\",
+      "outputPath": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\ApplicationApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1044,11 +1044,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj"
+            "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj"
+            "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\Entities\\Entities.csproj"
             }
           }
         }

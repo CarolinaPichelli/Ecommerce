@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqQ1NyDBt1k=",
+  "dgSpecHash": "tmcdJwycj54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Timeware73\\Desktop\\Ecommerce\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timeware73\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "C:\\Users\\Timeware73\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",
