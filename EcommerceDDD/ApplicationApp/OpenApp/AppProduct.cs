@@ -1,48 +1,78 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using ApplicationApp.Interfaces;
+﻿using ApplicationApp.Interfaces;
+using Domain.Interfaces.InterfaceProduct;
+using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ApplicationApp.OpenApp
 {
     public class AppProduct : InterfaceProductApp
     {
-        public Task AddProduct(Produto produto)
+        IProduct _IProduct;
+        IServiceProduct _IServiceProduct;
+        public AppProduct(IProduct IProduct, IServiceProduct IServiceProduct)
         {
-            throw new NotImplementedException();
-        }
-        public Task UpdateProduct(Produto produto)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task Add(Produto Objeto)
-        {
-            throw new NotImplementedException();
+            _IProduct = IProduct;
+            _IServiceProduct = IServiceProduct;
         }
 
-        public Task Delete(Produto Objeto)
+
+        public async Task<List<Produto>> ListarProdutosCarrinhoUsuario(string userId)
         {
-            throw new NotImplementedException();
+            return await _IProduct.ListarProdutosCarrinhoUsuario(userId);
         }
 
-        public Task<Produto> GetEntityById(int Id)
+        public async Task<Produto> ObterProdutoCarrinho(int idProdutoCarrinho)
         {
-            throw new NotImplementedException();
+            return await _IProduct.ObterProdutoCarrinho(idProdutoCarrinho);
         }
 
-        public Task<List<Produto>> List()
+
+
+        public async Task AddProduct(Produto produto)
         {
-            throw new NotImplementedException();
+            await _IServiceProduct.AddProduct(produto);
+        }
+        public async Task UpdateProduct(Produto produto)
+        {
+            await _IServiceProduct.UpdateProduct(produto);
         }
 
-        public Task Update(Produto Objeto)
+        public async Task<List<Produto>> ListarProdutosUsuario(string userId)
         {
-            throw new NotImplementedException();
+            return await _IProduct.ListarProdutosUsuario(userId);
         }
 
-      
+
+        public async Task Add(Produto Objeto)
+        {
+            await _IProduct.Add(Objeto);
+        }
+        public async Task Delete(Produto Objeto)
+        {
+            await _IProduct.Delete(Objeto);
+        }
+        public async Task<Produto> GetEntityById(int Id)
+        {
+            return await _IProduct.GetEntityById(Id);
+        }
+
+        public async Task<List<Produto>> List()
+        {
+            return await _IProduct.List();
+        }
+
+        public async Task Update(Produto Objeto)
+        {
+            await _IProduct.Update(Objeto);
+        }
+
+        public async Task<List<Produto>> ListarProdutosComEstoque()
+        {
+            return await _IServiceProduct.ListarProdutosComEstoque();
+        }
+
+
     }
 }

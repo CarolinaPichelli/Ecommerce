@@ -1,12 +1,535 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\models\\helpqrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\models\\helpqrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\views\\comprausuario\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\comprausuario\\finalizarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\views\\comprausuario\\minhascompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\comprausuario\\minhascompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\web_ecommerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\applicationapp\\openapp\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\openapp\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\applicationapp\\interfaces\\interfacecomprausuarioapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfacecomprausuarioapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfaceservices\\iservicecomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservices\\iservicecomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfacecomprausuario\\icomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfacecomprausuario\\icomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\generics\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\generics\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\services\\servicecomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\services\\servicecomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\infrastructure\\migrations\\contextbasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\contextbasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\infrastructure\\repository\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\infrastructure\\repository\\repositories\\repositorycomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repositories\\repositorycomprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\infrastructure\\repository\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repositories\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\enums\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\enums\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\enums\\enumestadocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\enums\\enumestadocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\comprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\comprausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\timeware73\\desktop\\ecommerceddd\\ecommerceddd\\entities\\notifications\\notifies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\notifications\\notifies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Web_ECommerce\\Controllers\\Data\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:31:26.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpQrCode.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Models\\HelpQrCode.cs",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Models\\HelpQrCode.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Models\\HelpQrCode.cs",
+              "RelativeToolTip": "Web_ECommerce\\Models\\HelpQrCode.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:31:10.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Web_ECommerce\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:31:08.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:30:54.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:29:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinhasCompras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\CompraUsuario\\MinhasCompras.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\CompraUsuario\\MinhasCompras.cshtml",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\CompraUsuario\\MinhasCompras.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\CompraUsuario\\MinhasCompras.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:29:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalizarCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\CompraUsuario\\FinalizarCompra.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\CompraUsuario\\FinalizarCompra.cshtml",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\CompraUsuario\\FinalizarCompra.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\CompraUsuario\\FinalizarCompra.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:25:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Program.cs",
+              "RelativeToolTip": "Web_ECommerce\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:25:26.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Startup.cs",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Startup.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Startup.cs",
+              "RelativeToolTip": "Web_ECommerce\\Startup.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:24:39.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InterfaceGenericaApp.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:24:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterfaceCompraUsuarioApp.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceCompraUsuarioApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceCompraUsuarioApp.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceCompraUsuarioApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceCompraUsuarioApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:24:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeToolTip": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:35.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServiceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServiceCompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceCompraUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServices\\IServiceCompraUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceCompraUsuario.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServices\\IServiceCompraUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:22.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:16.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceCompraUsuario\\ICompraUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceCompraUsuario\\ICompraUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceCompraUsuario\\ICompraUsuario.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceCompraUsuario\\ICompraUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\Generics\\IGeneric.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Generics\\IGeneric.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\Generics\\IGeneric.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Generics\\IGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:20:38.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceCompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceCompraUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\ServiceCompraUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceCompraUsuario.cs",
+              "RelativeToolTip": "Domain\\Services\\ServiceCompraUsuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:20:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\ServiceProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
+              "RelativeToolTip": "Domain\\Services\\ServiceProduct.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:19:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContextBaseModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Migrations\\ContextBaseModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ContextBaseModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Migrations\\ContextBaseModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ContextBaseModelSnapshot.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:54:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RepositoryGenerics.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Generics\\RepositoryGenerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:04:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryCompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Repositories\\RepositoryCompraUsuario.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repositories\\RepositoryCompraUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Repositories\\RepositoryCompraUsuario.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repositories\\RepositoryCompraUsuario.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:02:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Repositories\\RepositoryProduct.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repositories\\RepositoryProduct.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Repository\\Repositories\\RepositoryProduct.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repositories\\RepositoryProduct.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwCAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:54:29.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Enums\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Enums\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Enums\\TipoUsuario.cs",
+              "RelativeToolTip": "Entities\\Entities\\Enums\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:54:06.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnumEstadoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Enums\\EnumEstadoCompra.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Enums\\EnumEstadoCompra.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Enums\\EnumEstadoCompra.cs",
+              "RelativeToolTip": "Entities\\Entities\\Enums\\EnumEstadoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:51:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Base.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Base.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Base.cs",
+              "RelativeToolTip": "Entities\\Entities\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:50:15.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompraUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\CompraUsuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\CompraUsuario.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\CompraUsuario.cs",
+              "RelativeToolTip": "Entities\\Entities\\CompraUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:49:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Notifies.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Notifications\\Notifies.cs",
+              "RelativeDocumentMoniker": "Entities\\Notifications\\Notifies.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Notifications\\Notifies.cs",
+              "RelativeToolTip": "Entities\\Notifications\\Notifies.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:40:34.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\appsettings.json",
+              "RelativeToolTip": "Web_ECommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T12:00:28.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:37:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities\\Produto.cs",
+              "RelativeToolTip": "Entities\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:36:11.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\Timeware73\\Desktop\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:07:54.2Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

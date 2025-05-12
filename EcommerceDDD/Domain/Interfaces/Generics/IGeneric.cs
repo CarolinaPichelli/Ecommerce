@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.Generics
 {
-    public interface IGeneric<T> where T : class
+    public interface IGeneric<T> where T : class // T tem que ser uma classe
     {
         Task Add(T Objeto);
         Task Update(T Objeto);
