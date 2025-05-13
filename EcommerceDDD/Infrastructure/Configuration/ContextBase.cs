@@ -51,7 +51,7 @@ namespace Infrastructure.Configuration
         private string GetStringConectionConfig()
         {
             // Retorna a string de conexão com os parâmetros necessários para conectar ao banco
-            string strCon = "Data Source=TIMEWARE72;Initial Catalog=DDD_ECOMMERCE;User ID=sa;Password=123456;Connect Timeout=15;Encrypt=False;TrustServerCertificate=True";
+            string strCon = "Server=tcp:ecommercecarolina.database.windows.net,1433;Initial Catalog=ecommerce;Persist Security Info=False;User ID=usuario;Password=@Timeware2024;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             return strCon;
         }
     }
