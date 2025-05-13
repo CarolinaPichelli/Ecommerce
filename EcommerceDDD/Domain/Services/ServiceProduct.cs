@@ -3,6 +3,9 @@ using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
 using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
+using System.Runtime.InteropServices;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Domain.Services
@@ -34,9 +37,15 @@ namespace Domain.Services
             }
         }
 
-        public async Task<List<Produto>> ListarProdutosComEstoque()
+        public async Task<List<Produto>> ListarProdutosComEstoque(string descricao)
         {
-            return await _IProduct.ListarProdutos(p => p.QtdEstoque > 0);
+            if (string.IsNullOrWhiteSpace(descricao))
+                return await _IProduct.ListarProdutos(p => p.QtdEstoque > 0);
+            else
+            {
+                return await _IProduct.ListarProdutos(p => p.QtdEstoque > 0
+&& p.Nome.ToUpper().Contains(descricao.ToUpper()));
+            }
         }
 
         public async Task UpdateProduct(Produto produto)

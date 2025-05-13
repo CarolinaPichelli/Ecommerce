@@ -160,9 +160,9 @@ namespace Web_ECommerce.Controllers
 
         [AllowAnonymous]
         [HttpGet("/api/ListarProdutosComEstoque")]
-        public async Task<JsonResult> ListarProdutosComEstoque()
+        public async Task<JsonResult> ListarProdutosComEstoque(string descricao)
         {
-            return Json(await _InterfaceProductApp.ListarProdutosComEstoque());
+            return Json(await _InterfaceProductApp.ListarProdutosComEstoque(descricao));
         }
 
         public async Task<IActionResult> ListarProdutosCarrinhoUsuario()
@@ -171,7 +171,6 @@ namespace Web_ECommerce.Controllers
             return View(await _InterfaceProductApp.ListarProdutosCarrinhoUsuario(idUsuario));
 
         }
-
 
 
         // GET: ProdutosController/Delete/5
@@ -198,7 +197,6 @@ namespace Web_ECommerce.Controllers
                 return View();
             }
         }
-
 
 
         public async Task SalvarImagemProduto(Produto produtoTela)

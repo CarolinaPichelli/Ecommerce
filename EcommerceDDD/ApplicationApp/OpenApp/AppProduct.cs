@@ -2,7 +2,9 @@
 using Domain.Interfaces.InterfaceProduct;
 using Domain.Interfaces.InterfaceServices;
 using Entities.Entities;
+using System;
 using System.Collections.Generic;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace ApplicationApp.OpenApp
@@ -27,7 +29,6 @@ namespace ApplicationApp.OpenApp
         {
             return await _IProduct.ObterProdutoCarrinho(idProdutoCarrinho);
         }
-
 
 
         public async Task AddProduct(Produto produto)
@@ -68,9 +69,9 @@ namespace ApplicationApp.OpenApp
             await _IProduct.Update(Objeto);
         }
 
-        public async Task<List<Produto>> ListarProdutosComEstoque()
+        public async Task<List<Produto>> ListarProdutosComEstoque(string descricao)
         {
-            return await _IServiceProduct.ListarProdutosComEstoque();
+            return await _IServiceProduct.ListarProdutosComEstoque(descricao);
         }
 
 
